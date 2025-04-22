@@ -1,0 +1,12 @@
+import React from 'react';
+
+const MealReports = () => {
+  return (
+    <div className="p-6">
+      <h2 className="text-2xl font-bold">Meal Reports</h2>
+      <p>This is where meal data will be shown.</p>
+    </div>
+  );
+};
+
+export default MealReports;
